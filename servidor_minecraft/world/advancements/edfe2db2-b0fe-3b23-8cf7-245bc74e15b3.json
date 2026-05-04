@@ -1,0 +1,23 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-04-02 21:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2026-04-02 21:30:12 +0000",
+      "minecraft:dripstone_caves": "2026-04-03 22:52:24 +0000",
+      "minecraft:jagged_peaks": "2026-04-02 21:20:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-04-03 22:46:51 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

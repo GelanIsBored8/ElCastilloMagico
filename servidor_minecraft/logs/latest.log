@@ -1,0 +1,30 @@
+[00:12:06] [Server thread/INFO]: [GelanIsBored: Set the time to 1000]
+[01:21:35] [Server thread/INFO]: GelanIsBored lost connection: Disconnected
+[01:21:35] [Server thread/INFO]: GelanIsBored left the game
+[01:23:26] [Server thread/INFO]: GelanIsBored[/127.1.224.107:34893] logged in with entity id 8249 at (293.16300497686484, 218.89459683539258, -90.99134051371361)
+[01:23:26] [Server thread/INFO]: GelanIsBored joined the game
+[01:24:40] [Server thread/INFO]: GelanIsBored lost connection: Disconnected
+[01:24:40] [Server thread/INFO]: GelanIsBored left the game
+[01:24:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:24:46] [Server thread/INFO]: stostop<--[HERE]
+[01:25:35] [Server thread/INFO]: Stopping the server
+[01:25:35] [Server thread/INFO]: Stopping server
+[01:25:35] [Server thread/INFO]: Saving players
+[01:25:35] [Server thread/INFO]: Saving worlds
+[01:25:35] [Server thread/INFO]: ServerLevel[El Castillo Magico]/minecraft:overworld: waiting for 841 chunks to unload
+[01:25:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[El Castillo Magico]'/minecraft:overworld
+[01:25:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[El Castillo Magico]'/minecraft:the_end
+[01:25:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[El Castillo Magico]'/minecraft:the_nether
+[01:25:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:25:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:25:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:25:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:25:35] [C2ME Storage #3/INFO]: Storage thread Thread[#58,C2ME Storage #3,5,main] stopped
+[01:25:35] [C2ME Storage #2/INFO]: Storage thread Thread[#55,C2ME Storage #2,5,main] stopped
+[01:25:35] [C2ME Storage #6/INFO]: Storage thread Thread[#67,C2ME Storage #6,5,main] stopped
+[01:25:35] [C2ME Storage #4/INFO]: Storage thread Thread[#59,C2ME Storage #4,5,main] stopped
+[01:25:35] [C2ME Storage #5/INFO]: Storage thread Thread[#60,C2ME Storage #5,5,main] stopped
+[01:25:35] [C2ME Storage #1/INFO]: Storage thread Thread[#54,C2ME Storage #1,5,main] stopped
+[01:25:35] [C2ME Storage #9/INFO]: Storage thread Thread[#70,C2ME Storage #9,5,main] stopped
+[01:25:35] [C2ME Storage #8/INFO]: Storage thread Thread[#69,C2ME Storage #8,5,main] stopped
+[01:25:35] [C2ME Storage #7/INFO]: Storage thread Thread[#68,C2ME Storage #7,5,main] stopped
